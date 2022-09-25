@@ -399,12 +399,13 @@ a img.aligncenter {
   .heading .my-title h1{
     font-size: 30px;
     text-transform: uppercase;
+    padding-top: 20px;
     padding-left: 10px ;
     padding-right:10px ;
   }
 
     .heading .my-title p{
-    font-size: 20px;
+    font-size: 15px;
     padding-left: 10px ;
     padding-right:10px ;
   }
